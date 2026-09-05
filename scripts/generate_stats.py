@@ -283,8 +283,11 @@ def build_stats_svg(total, weekly, frm, to):
 
 def build_streak_svg(streak_data):
     width, height = 480, 150
-
-    def fmt_range(r):
+    
+def day_word(n):
+    return "day" if n == 1 else "days"
+    
+def fmt_range(r):
         a, b = r
         if not a:
             return "\u2014"
@@ -296,13 +299,13 @@ def build_streak_svg(streak_data):
 
     out = svg_header(width, height, f"{GH_LOGIN} contribution streaks")
     out += '<text x="24" y="36" font-size="12" class="dim">current streak</text>\n'
-    out += f'<text x="24" y="66" font-size="30" class="b accent">{streak_data["current"]} days</text>\n'
+    out += f'<text x="24" y="66" font-size="30" class="b accent">{streak_data["current"]} {day_word(streak_data["current"])}</text>\n'
     out += f'<text x="24" y="86" font-size="11" class="dim">{fmt_range(streak_data["current_range"])}</text>\n'
 
     out += f'<line x1="24" y1="104" x2="{width-24}" y2="104" stroke="{GRID}"/>\n'
 
     out += '<text x="24" y="126" font-size="12" class="dim">longest streak</text>\n'
-    out += f'<text x="200" y="126" font-size="14" class="b">{streak_data["longest"]} days</text>\n'
+    out += f'<text x="200" y="126" font-size="14" class="b">{streak_data["longest"]} {day_word(streak_data["longest"])}</text>\n'
     out += f'<text x="330" y="126" font-size="11" class="dim">{fmt_range(streak_data["longest_range"])}</text>\n'
     out += SVG_FOOTER
     return out
