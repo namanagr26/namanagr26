@@ -283,11 +283,11 @@ def build_stats_svg(total, weekly, frm, to):
 
 def build_streak_svg(streak_data):
     width, height = 480, 150
-    
-def day_word(n):
-    return "day" if n == 1 else "days"
-    
-def fmt_range(r):
+
+    def day_word(n):
+        return "day" if n == 1 else "days"
+
+    def fmt_range(r):
         a, b = r
         if not a:
             return "\u2014"
