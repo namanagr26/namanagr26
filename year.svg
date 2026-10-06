@@ -249,8 +249,8 @@
 <text x="382" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="382" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="382" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="382" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="393" y="33" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="382" y="99" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="393" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="393" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="393" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="393" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
@@ -297,8 +297,8 @@
 <text x="459" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="459" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="459" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="459" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="459" y="99" font-size="12.9" class="accent" opacity="1.00">@</text>
+<text x="459" y="88" font-size="12.9" class="accent" opacity="1.00">@</text>
+<text x="459" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="470" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="470" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="470" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
@@ -342,18 +342,18 @@
 <text x="525" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="525" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="536" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="536" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="536" y="55" font-size="12.9" class="accent" opacity="0.65">=</text>
-<text x="536" y="66" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="536" y="44" font-size="12.9" class="accent" opacity="0.65">=</text>
+<text x="536" y="55" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="536" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="536" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="536" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="536" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="547" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="547" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="547" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="547" y="66" font-size="12.9" class="accent" opacity="0.65">=</text>
-<text x="547" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="547" y="88" font-size="12.9" class="accent" opacity="0.70">=</text>
+<text x="547" y="55" font-size="12.9" class="accent" opacity="0.65">=</text>
+<text x="547" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
+<text x="547" y="77" font-size="12.9" class="accent" opacity="0.70">=</text>
+<text x="547" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="547" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="558" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="558" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
