@@ -229,8 +229,8 @@
 <text x="349" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="349" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="349" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="360" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="360" y="44" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="360" y="33" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="360" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="360" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="360" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="360" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
@@ -277,8 +277,8 @@
 <text x="426" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="426" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="426" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="426" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="437" y="33" font-size="12.9" class="accent" opacity="1.00">@</text>
+<text x="426" y="99" font-size="12.9" class="accent" opacity="1.00">@</text>
+<text x="437" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="437" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="437" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="437" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
@@ -322,18 +322,18 @@
 <text x="492" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="503" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="503" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="503" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="503" y="66" font-size="12.9" class="accent" opacity="0.65">=</text>
-<text x="503" y="77" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="503" y="55" font-size="12.9" class="accent" opacity="0.65">=</text>
+<text x="503" y="66" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="503" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="503" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="503" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="514" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="514" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="514" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="514" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="514" y="77" font-size="12.9" class="accent" opacity="0.65">=</text>
-<text x="514" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="514" y="99" font-size="12.9" class="accent" opacity="0.70">=</text>
+<text x="514" y="66" font-size="12.9" class="accent" opacity="0.65">=</text>
+<text x="514" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
+<text x="514" y="88" font-size="12.9" class="accent" opacity="0.70">=</text>
+<text x="514" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="525" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="525" y="44" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="525" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
@@ -381,7 +381,7 @@
 <text x="591" y="55" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="591" y="66" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="591" y="77" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="591" y="88" font-size="12.9" class="accent" opacity="0.15"> </text>
-<text x="591" y="99" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="591" y="88" font-size="12.9" class="accent" opacity="0.41"> </text>
+<text x="591" y="99" font-size="12.9" class="accent" opacity="0.15"> </text>
 <text x="602" y="33" font-size="12.9" class="accent" opacity="0.15"> </text>
 </svg>
