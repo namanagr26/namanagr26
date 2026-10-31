@@ -21,25 +21,25 @@
 <text x="24" y="28" font-size="12" class="dim">top languages · by bytes</text>
 <text x="24" y="57" font-size="11">HTML</text>
 <rect x="150" y="46" width="260" height="10" rx="2" fill="#21262d"/>
-<rect x="150" y="46" width="156.4" height="10" rx="2" fill="#58a6ff"/>
-<text x="456" y="55" font-size="10" class="dim" text-anchor="end">60%</text>
+<rect x="150" y="46" width="174.6" height="10" rx="2" fill="#58a6ff"/>
+<text x="456" y="55" font-size="10" class="dim" text-anchor="end">67%</text>
 <text x="24" y="81" font-size="11">Python</text>
 <rect x="150" y="70" width="260" height="10" rx="2" fill="#21262d"/>
-<rect x="150" y="70" width="59.1" height="10" rx="2" fill="#58a6ff"/>
-<text x="456" y="79" font-size="10" class="dim" text-anchor="end">23%</text>
+<rect x="150" y="70" width="52.3" height="10" rx="2" fill="#58a6ff"/>
+<text x="456" y="79" font-size="10" class="dim" text-anchor="end">20%</text>
 <text x="24" y="105" font-size="11">CSS</text>
 <rect x="150" y="94" width="260" height="10" rx="2" fill="#21262d"/>
-<rect x="150" y="94" width="16.8" height="10" rx="2" fill="#58a6ff"/>
-<text x="456" y="103" font-size="10" class="dim" text-anchor="end">6%</text>
+<rect x="150" y="94" width="12.5" height="10" rx="2" fill="#58a6ff"/>
+<text x="456" y="103" font-size="10" class="dim" text-anchor="end">5%</text>
 <text x="24" y="129" font-size="11">JavaScript</text>
 <rect x="150" y="118" width="260" height="10" rx="2" fill="#21262d"/>
-<rect x="150" y="118" width="16.7" height="10" rx="2" fill="#58a6ff"/>
-<text x="456" y="127" font-size="10" class="dim" text-anchor="end">6%</text>
+<rect x="150" y="118" width="12.4" height="10" rx="2" fill="#58a6ff"/>
+<text x="456" y="127" font-size="10" class="dim" text-anchor="end">5%</text>
 <text x="24" y="153" font-size="11">Jupyter Notebook</text>
 <rect x="150" y="142" width="260" height="10" rx="2" fill="#21262d"/>
-<rect x="150" y="142" width="11.0" height="10" rx="2" fill="#58a6ff"/>
-<text x="456" y="151" font-size="10" class="dim" text-anchor="end">4%</text>
+<rect x="150" y="142" width="8.2" height="10" rx="2" fill="#58a6ff"/>
+<text x="456" y="151" font-size="10" class="dim" text-anchor="end">3%</text>
 <line x1="24" y1="178" x2="456" y2="178" stroke="#21262d"/>
 <text x="24" y="198" font-size="12" class="dim">top languages · by repo count</text>
-<text x="24" y="218" font-size="11">Python (5) · HTML (3) · Jupyter Notebook (1) · CSS (1)</text>
+<text x="24" y="218" font-size="11">Python (6) · HTML (5) · CSS (1) · Jupyter Notebook (1)</text>
 </svg>
