@@ -17,9 +17,7 @@
 
 <br><br>
 
-<samp>now</samp>
-<br>
-<sub>cybersecurity intern at skillorbit (aug 2026 – present): web application VAPT across 8 OWASP vulnerability classes with burp suite, external recon with shodan + nmap, and a packet-capture intrusion detection tool built from scratch.</sub>
+<img src="./terminal.svg" width="900" alt="terminal: whoami, an nmap-style scan of my domains (cybersecurity, ai/ml, data, shipping), my intrusion detector catching a port scan and ssh brute force, and audio-captioning model scores" />
 
 <br><br>
 
