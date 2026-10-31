@@ -47,33 +47,7 @@
 | [the-crease](https://github.com/namanagr26/the-crease) · [live](https://the-crease.netlify.app) | ipl 2026: countdown, squad cards, pitch intelligence via playwright |
 | [f1-dashboard](https://github.com/namanagr26/F1-Dashboard) · [live](https://f1yukar1.netlify.app) | live f1 standings and results from the jolpica api |
 
-<br>
-
-<img src="./heading-activity.svg" width="900" alt="activity" />
-
-<br>
-
-<img src="./stats.svg" width="480" alt="contribution total and weekly activity" />
-
-<br><br>
-
-<img src="./streak.svg" width="480" alt="current and longest contribution streaks" />
-
-<br><br>
-
-<img src="./langs.svg" width="480" alt="top languages by bytes and by repo count" />
-
-<br><br>
-
-<img src="./year.svg" width="900" alt="contribution calendar, one character per day" />
-
-<br><br>
-
 <blockquote>
 the focus now is where ai and security meet: models, detection tooling, and
 the dashboards that put both in front of people.
-<br><br>
-every graphic above is generated inside this repository by a scheduled
-action, straight from the GitHub API — no third-party stats services,
-nothing that can rate-limit or go dark.
 </blockquote>
